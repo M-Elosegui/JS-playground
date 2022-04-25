@@ -68,3 +68,5 @@ document.querySelector("#troop_confirm_go").click()
 
 // document.querySelector("#troop_confirm_go").click()
 // document.querySelector("#header_menu_link_map > a").click()
+// ja esta tudo alterado, versão final
+
